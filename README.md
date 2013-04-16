@@ -1,4 +1,4 @@
-game_virt
+Game Virtualization
 =========
 
-game virtualization project
+game virtualization project (in development)
